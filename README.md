@@ -6,6 +6,4 @@ public class Flores {
         System.out.println("*****");
         System.out.println(" *** ");
         System.out.println("  *  ");
-    }
-}
-
+    
